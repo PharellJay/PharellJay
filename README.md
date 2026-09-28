@@ -2,6 +2,8 @@
 
 I'm **Pharell Jay**, a developer from **Germany** 
 
+---
+
 ### 🧠 About Me
 
 What drives me most is **solving problems, learning new things, and challenging the way I think**. I love the feeling of understanding something that once seemed difficult and using that knowledge to become a better version of myself.
@@ -21,5 +23,7 @@ I've contributed to the development of **modifications and tools for multiplayer
 * 🎓 Studying **Software Engineering at [HHN](https://www.hs-heilbronn.de/)**
 * 🧠 Exploring **technology, philosophy, and ethics**
 * 🔨 Building projects and turning ideas into reality
+
+---
 
 > *"I know that I know nothing."*
