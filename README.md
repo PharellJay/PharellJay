@@ -22,8 +22,5 @@ I've built and maintained game servers with over 16,000 registered players, whil
 * 🎓 Studying **Software Engineering at [HHN](https://www.hs-heilbronn.de/)**
 * 🧠 Exploring **technology, philosophy, and ethics**
 * 🔨 Building projects and turning ideas into reality
-<pre> 
-
-</pre>
-
+&nbsp;
 > *"I know that I know nothing."*
