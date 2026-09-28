@@ -15,7 +15,6 @@ I've contributed to the development of **modifications and tools for multiplayer
 * 💰 **Virtual economies** and game systems
 * 🛡️ **Anti-cheat and security systems**
 * ⚙️ **Developer tools** and custom solutions
-* 🌐 **Web interfaces** and supporting infrastructure
 
 ### 🚀 Currently
 
