@@ -1,4 +1,4 @@
-# Hey there! 🫡
+# Hey there! 👋
 
 I'm **Pharell Jay**, a developer from **Germany** 
 
