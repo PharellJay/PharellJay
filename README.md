@@ -24,6 +24,4 @@ I've built and maintained game servers with over 16,000 registered players, whil
 * 🔨 Building projects and turning ideas into reality
 
 
----
-
 > *"I know that I know nothing."*
