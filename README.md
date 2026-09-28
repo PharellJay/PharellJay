@@ -18,8 +18,8 @@ I've contributed to the development of **modifications and tools for multiplayer
 
 ### 🚀 Currently
 
-🎓 Studying **Software Engineering at [HHN](https://www.hs-heilbronn.de/)**
-🧠 Exploring **technology, philosophy, and ethics**
-🔨 Building projects and turning ideas into reality
+* 🎓 Studying **Software Engineering at [HHN](https://www.hs-heilbronn.de/)**
+* 🧠 Exploring **technology, philosophy, and ethics**
+* 🔨 Building projects and turning ideas into reality
 
 > *"I know that I know nothing."*
