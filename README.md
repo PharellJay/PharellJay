@@ -17,9 +17,7 @@ I've contributed to the development of **modifications and tools for multiplayer
 * ⚙️ **Developer tools** and custom solutions
 * 🔐 Encryption and cryptographic methods
 
-I've also built and maintained game-servers used by over 16,000 registered players, giving me experience with software used at a larger scale.
-
-While game development has been a major part of my journey, my interests and experience extend far beyond it. I'm curious about software engineering, security, technology, and the many different ways software can solve problems.
+I've built and maintained game servers with over 16,000 registered players, while exploring interests beyond game development across software engineering, security, and technology.
 
 ### 🚀 Currently
 
