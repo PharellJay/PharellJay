@@ -1,6 +1,4 @@
-# Hey there! 👋
-
-I'm **Pharell Jay**, a developer from **Germany** 
+# I'm **Pharell Jay**, a developer from **Germany** 
 
 ### 🧠 About Me
 
