@@ -15,6 +15,9 @@ I've contributed to the development of **modifications and tools for multiplayer
 * 💰 **Virtual economies** and game systems
 * 🛡️ **Anti-cheat and security systems**
 * ⚙️ **Developer tools** and custom solutions
+* 🔐 Encryption and cryptographic methods
+
+While game development has been a major part of my journey, my interests and experience extend far beyond it. I'm curious about software engineering, security, technology, and the many different ways software can solve problems.
 
 ### 🚀 Currently
 
